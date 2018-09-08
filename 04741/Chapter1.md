@@ -9,5 +9,5 @@
 硬件资源共享、软件资源共享、信息资源共享  
 ##### 4.按网络覆盖范围划分，主要有哪几类计算机网络？各有什么特点？  
 个域网PAN、局域网LAN、城域网MAN、广域网WAN  
-LAN 1~10m  LAN 10m~1km  MAN 5~50km  WAN km~***km  
+LAN:1~10m  LAN:10m~1km  MAN:5~50km  WAN:**km~***km  
 
